@@ -1,2 +1,2 @@
-# aws-bootcamp-p2
-Projeto realizado no Bootcamp AWS na DIO.me
+# 2º Projeto Bootcamp AWS
+Consiste em criar um arquivo shell que atualiza e instala o servidor Apache e em seguida baixa uma aplicação de um repositório web, o alocando na pasta principal do servidor ```/var/www/html``` .
